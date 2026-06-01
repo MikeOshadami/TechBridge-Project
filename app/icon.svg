@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 26" fill="none">
+  <!-- Arch -->
+  <path d="M4 21 C4 5 30 5 30 21" stroke="#254135" stroke-width="2.25" stroke-linecap="round" fill="none" opacity="0.88"/>
+  <!-- Hangers -->
+  <path d="M11 14.5V21" stroke="#254135" stroke-width="1.25" stroke-linecap="round" opacity="0.42"/>
+  <path d="M17 11V21"   stroke="#254135" stroke-width="1.25" stroke-linecap="round" opacity="0.42"/>
+  <path d="M23 14.5V21" stroke="#254135" stroke-width="1.25" stroke-linecap="round" opacity="0.42"/>
+  <!-- Deck -->
+  <rect x="0" y="20.5" width="34" height="3" rx="1.5" fill="#c8892a"/>
+  <!-- Anchor nodes -->
+  <circle cx="4"  cy="21" r="3"   fill="#c8892a"/>
+  <circle cx="30" cy="21" r="3"   fill="#c8892a"/>
+  <!-- Crown node -->
+  <circle cx="17" cy="11" r="2.5" fill="#254135" opacity="0.88"/>
+</svg>
